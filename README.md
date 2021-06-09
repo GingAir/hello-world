@@ -34,7 +34,7 @@ and here `code2`
 is a link [baidu](https://www.baidu.com "百度一下")  
 <https://www.baidu.com>
 ## 8th title
-is a pic ![图片](/Users/yezipeng/Pictures/Random/timg.jpeg "no picture").  
+is a pic ![图片](https://github.com/GingAir/Latex_learning/tree/main/fundamental_structure/figures/timg.jpeg "no picture").  
 and its url [![图片](no link "no pic")](www.baidu.com).  
 4 < 5
 \* \#
